@@ -126,7 +126,7 @@ timeline
             : Rendimiento de APIs: Networking
             : Demo GraphQL
         Semana 11
-            : Evaluaciones
+            : Evaluaciones.
 ```
 
 ## Mapa de Temas
